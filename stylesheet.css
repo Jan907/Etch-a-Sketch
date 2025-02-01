@@ -1,0 +1,16 @@
+/* stlye the div container as flexbox, basically creating an even grid */
+
+#con {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 12px;
+    min-height: 40vh;
+    background-color: blue;
+    width: 100%;
+    max-width: 960px;
+
+}
+
+#btn {
+    margin-top: 20px;
+}
